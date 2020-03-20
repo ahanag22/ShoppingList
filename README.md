@@ -1,4 +1,3 @@
 # ShoppingList
- A small React Native app
- To run on iOS
->react-native run-ios
+A small React Native app; to run on iOS
+react-native run-ios
